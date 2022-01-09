@@ -1,1 +1,1 @@
-float  DistanciaDeAaB(PONTO A, PONTO B){/*...*/}float  AreaCirculo(float  raio){/*...*/}float  PerimetroCircunferencia(float  raio){/*...*/}void  InfoCirculo (){/*...*/}
+float  DistanciaDeAaB(PONTO A, PONTO B){float  deltax = A.x - B.x,float  deltay = A.y - B.y;return  sqrt(deltax * deltax + deltay * deltay);}float  AreaCirculo(float  raio){/*...*/}float  PerimetroCircunferencia(float  raio){/*...*/}void  InfoCirculo (){/*...*/}
