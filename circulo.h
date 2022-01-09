@@ -1,0 +1,1 @@
+float  DistanciaDeAaB(PONTO A, PONTO B){/*...*/}float  AreaCirculo(float  raio){/*...*/}float  PerimetroCircunferencia(float  raio){/*...*/}void  InfoCirculo (){/*...*/}
